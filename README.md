@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kimutai</h1>
 <h3 align="center">A passionate fullstack developer from Nairobi,Kenya</h3>
 
-- 🔭 I’m currently working on [kaptagat springs water e-commerce](https://www.kaptagatspringswater.co.ke/)
-
-- 🌱 I’m currently learning **React native, Docker, Tensor**
-
-- 👯 I’m looking to collaborate on [ksucu-mc](https://ksucu-mc.co.ke/)
-
-- 👨‍💻 All of my projects are available at [kimutaijustus.co.ke](kimutaijustus.co.ke)
-
 - 📝 I regularly write articles on [https://kimutaijustus.co.ke/blog/psalms/chapter8](https://kimutaijustus.co.ke/blog/psalms/chapter8)
 
 - 💬 Ask me about **react, vite, linux hosting, nginx proxy, vps, cloudflare, mpesa daraja, Kcb buni payment API, node.js, Mongo db**
